@@ -10,7 +10,7 @@ import Provider from './Provider'
 import Header from '../../theme/Header'
 import './layout.css'
 
-addLocaleData([...ar], [...en])
+addLocaleData(ar, en)
 
 const Layout = ({ children }) => (
 	<Provider>

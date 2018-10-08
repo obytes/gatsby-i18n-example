@@ -9,7 +9,7 @@ const Head = ({ title, intl: { formatMessage } }) => (
 			<Helmet>
 				<html lang={lang} dir={lang === 'ar' ? 'rtl' : 'ltr'} />
 				<title>
-					{`${formatMessage({ id: title })}`}
+					{formatMessage({ id: title })}
 				</title>
 			</Helmet>
 		)}
