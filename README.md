@@ -1,3 +1,3 @@
-### Implement i18n to a Gatsby site
+# Implement i18n to a Gatsby site
 
-Link to the article will be posted here:
+Full details: https://www.obytes.com/blog/2018/implement-i18n-to-gatsby/
